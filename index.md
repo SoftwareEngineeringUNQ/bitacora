@@ -10,7 +10,7 @@ title: Bitácora de EIS  2014 (1)
   {% for post in site.posts %}
  
   <li>
-    <a href="{{ post.url }}">
+    <a href="{{baseurl}}{{ post.url }}">
       <h3>{{ post.date | date_to_string }} - {{ post.title }} - {{ post.author }}</h3>
     </a>
   </li>
