@@ -4,7 +4,7 @@ author: Carrascosa, Ezequiel
 layout: default
 ---
 
-# Resumen Clase 02 (2013-08-21)
+Resumen Clase 02 (2013-08-21)
 
 Este es el breve resumen de la clase, el cual está dividido por los temas que se hablaron.
 Evolución de las computadoras
