@@ -32,5 +32,3 @@ pudimos definir alrededor de 12 posibles User Stories, tales como:
 - Como Vendedor masivo quiero subastar muchos productos con un solo formulario
 
 Ausentes: Nadie.
-
-
