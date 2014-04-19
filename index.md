@@ -3,18 +3,8 @@ layout: default
 title: Bitácora de EIS  2014 (1)
 ---
  
-<section class="content">
-<h2>Bitácora Elementos Ingeniería de Software 2014 (1)</h2>
+<h2>Bitácora de Elementos Ingeniería de Software 2014 (1)</h2>
  
-<ul class="entries">
-  {% for post in site.posts %}
- 
-  <li>
-    <a href="{{site.baseurl}}{{ post.url }}">
-      <h3>{{ post.date | date_to_string }} - {{ post.title }} - {{ post.author }}</h3>
-    </a>
-  </li>
- 
-  {% endfor %}
-</ul>
-</section>
+{% for post in site.posts %}
+*[{{ post.date | date_to_string }} - {{ post.title }} - {{ post.author }}]({{site.baseurl}}{{ post.url }})
+{% endfor %}
