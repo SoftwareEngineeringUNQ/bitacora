@@ -19,7 +19,9 @@ Ya dentro de los temas de la clase,la misma se dedicó a la Estimación.
 
  - Técnicas de estimación : Paramétricas y Por opiniones,se marcaron las diferencias entre ambas.
  
- - Qué estimamos :  .Tamaño de software(Alcance): Se suele estimar primero GENERALMENTE.Ésto se podría calcular por 
+ - Qué estimamos :  
+ 
+                    .Tamaño de software(Alcance): Se suele estimar primero GENERALMENTE.Ésto se podría calcular por 
                       funcionalidad,es decir,cantidad y complejidad de funcionalidades.Y debatimos que calcularla,por 
                       ejemplo,por tamaño de espacio en disco o por cantidad de líneas de código no es viable.
                       
