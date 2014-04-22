@@ -34,7 +34,7 @@ Ya dentro de los temas de la clase,la misma se dedicó a la Estimación.
                       veces se estima sólo uno  de ellos y se pasa directamente a la planificación. 
                       
   
-  - Repasamos otro concepto importante:el Spike.Está acotado y no se puede estimar,se fija un tiempo para hacerlo
+ - Repasamos otro concepto importante:el Spike.Está acotado y no se puede estimar,se fija un tiempo para hacerlo
    (time-boxed),por ejemplo,un día o una semana,etc.   
   
 El resto de la clase hicimos un ejercicio práctico relacionado a Estimación en grupos de 4 personas aproximadamente,
