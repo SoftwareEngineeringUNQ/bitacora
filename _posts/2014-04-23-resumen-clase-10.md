@@ -46,3 +46,4 @@ Terminado la explicación, se siguió en aplicar lo enseñado con una actividad 
 * Ante cualquier duda consultar con el product owner.	
  
 Al finalizar la sesión, cada grupo establecieron sus valores en el pizarrón y en base a eso se debatieron las razones y variaciones de opiniones en cada user story.
+
