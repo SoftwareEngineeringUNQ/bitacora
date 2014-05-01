@@ -124,4 +124,7 @@ Resumen Clase 12 (2014-04-30)
 	• Complejidad.
 
 
-
+•Ausentes: 
+	• Rieser, Pablo
+	• Carrascosa, Ezequiel
+	• Presa, Federico
