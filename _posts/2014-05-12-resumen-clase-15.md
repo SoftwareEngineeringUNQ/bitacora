@@ -50,7 +50,6 @@ Un ejemplo que se dio en clase fue sobre el ahorcado y fue el siguiente:
     Scenario: arriesgo letra y acierto
         Given una palabra "hola"
         When arriesgo "h"
-        Then ver "Acierto!
+        Then ver "Acierto!"
 
-Una vez traducido a codigo, ya se puede trabajar con ruby, aunque en algunos casos si estamos trabajando con paginas web vamos a toparnos con otra herramienta llamada CAPYBARA
-que es la que provee funciones para interactuar con paginas web
+Una vez traducido a codigo, ya se puede trabajar con ruby, aunque en algunos casos si estamos trabajando con paginas web vamos a toparnos con otra herramienta llamada CAPYBARA que es la que provee funciones para interactuar con paginas web
