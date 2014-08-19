@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bitacora primer cuatrimestre 2014
+title: Bitacora segundo cuatrimestre 2014
 ---
  
 {% for post in site.posts %}
