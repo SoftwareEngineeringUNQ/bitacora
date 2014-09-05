@@ -36,8 +36,12 @@ dialoga con cada uno de los integrantes del equipo de desarrollo para saber:
 El modo de trabajo es el siguiente:
 
  **Backlog** : en este se encuentran todas las tareas a realizar generadas por el equipo (User storys). Estos User storys tienen un peso (dificultad de la tarea) asignado por el equipo (se suele hacer usando la serie de números de fibonacci) y en ocasiones se le da una prioridad.
+ 
 Los User storys tienen descripta, en una oración simple, su funcionalidad. 
 Estas tareas van cambiando de estado con el tiempo, comienzan en To Do (tareas sin hacer), luego pasan a Doing (la tarea se está resolviendo) y luego a Done (tarea terminada). Las tareas se las asignan los mismos desarrolladores según sus habilidades.
+
 El último día del Sprint se realiza la reunión de revisión de la iteración. Tiene dos partes:
-Demostración (4 horas máximo). El equipo presenta al cliente los requisitos completados en la iteración, en forma de incremento de producto preparado para ser entregado con el mínimo esfuerzo. En función de los resultados mostrados y de los cambios que haya habido en el contexto del proyecto, el cliente realiza las adaptaciones necesarias de manera objetiva, ya desde la primera iteración, replanificando el proyecto.
-Retrospectiva (4 horas máximo). El equipo analiza cómo ha sido su manera de trabajar y cuáles son los problemas que podrían impedirle progresar adecuadamente, mejorando de manera continua su productividad. El Scrum Master se encargará de ir eliminando los obstáculos identificados.
+
+* Demostración (4 horas máximo). El equipo presenta al cliente los requisitos completados en la iteración, en forma de incremento de producto preparado para ser entregado con el mínimo esfuerzo. En función de los resultados mostrados y de los cambios que haya habido en el contexto del proyecto, el cliente realiza las adaptaciones necesarias de manera objetiva, ya desde la primera iteración, replanificando el proyecto.
+
+* Retrospectiva (4 horas máximo). El equipo analiza cómo ha sido su manera de trabajar y cuáles son los problemas que podrían impedirle progresar adecuadamente, mejorando de manera continua su productividad. El Scrum Master se encargará de ir eliminando los obstáculos identificados.
