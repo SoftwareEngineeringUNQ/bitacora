@@ -27,11 +27,11 @@ de menor tiempo. La cantidad de integrantes por Sprint son de 2 a 5 personas apr
 En cada dia del Sprint se hacen reuniones de 10 a 15 min aprox (Scrum) en donde el Scrum Master 
 dialoga con cada uno de los integrantes del equipo de desarrollo para saber:
 
-*¿Qué hizo desde el ultimo Scrum?
+* ¿Qué hizo desde el ultimo Scrum?
 
-*¿Qué tarea va a hacer?
+* ¿Qué tarea va a hacer?
 
-*¿Tienen algún impedimento con su tarea?
+* ¿Tienen algún impedimento con su tarea?
 
 El modo de trabajo es el siguiente:
 
