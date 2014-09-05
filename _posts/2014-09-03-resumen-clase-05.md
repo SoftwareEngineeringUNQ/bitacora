@@ -30,7 +30,8 @@ dialoga con cada uno de los integrantes del equipo de desarrollo para saber:
 *¿Qué tarea va a hacer?
 *¿Tienen algún impedimento con su tarea?
 El modo de trabajo es el siguiente:
-**Backlog**: en este se encuentran todas las tareas a realizar generadas por el equipo (User storys). Estos User storys tienen un peso (dificultad de la tarea) asignado por el equipo (se suele hacer usando la serie de números de fibonacci) y en ocasiones se le da una prioridad.
+
+ **Backlog** : en este se encuentran todas las tareas a realizar generadas por el equipo (User storys). Estos User storys tienen un peso (dificultad de la tarea) asignado por el equipo (se suele hacer usando la serie de números de fibonacci) y en ocasiones se le da una prioridad.
 Los User storys tienen descripta, en una oración simple, su funcionalidad. 
 Estas tareas van cambiando de estado con el tiempo, comienzan en To Do (tareas sin hacer), luego pasan a Doing (la tarea se está resolviendo) y luego a Done (tarea terminada). Las tareas se las asignan los mismos desarrolladores según sus habilidades.
 El último día del Sprint se realiza la reunión de revisión de la iteración. Tiene dos partes:
