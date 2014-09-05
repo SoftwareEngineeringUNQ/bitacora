@@ -26,9 +26,13 @@ de menor tiempo. La cantidad de integrantes por Sprint son de 2 a 5 personas apr
 2 pizzas coman bien). El tiempo por cada Sprint es de 1 a 3 semanas aprox.
 En cada dia del Sprint se hacen reuniones de 10 a 15 min aprox (Scrum) en donde el Scrum Master 
 dialoga con cada uno de los integrantes del equipo de desarrollo para saber:
+
 *¿Qué hizo desde el ultimo Scrum?
+
 *¿Qué tarea va a hacer?
+
 *¿Tienen algún impedimento con su tarea?
+
 El modo de trabajo es el siguiente:
 
  **Backlog** : en este se encuentran todas las tareas a realizar generadas por el equipo (User storys). Estos User storys tienen un peso (dificultad de la tarea) asignado por el equipo (se suele hacer usando la serie de números de fibonacci) y en ocasiones se le da una prioridad.
