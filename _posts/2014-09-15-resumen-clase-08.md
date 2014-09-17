@@ -10,14 +10,11 @@ layout: post
 
 * Comenzamos hablando sobre [RSpec](http://rspec.info), una herramienta de testing en Ruby.
 
-	* Esta herramienta es un [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) (domain specific languaje) cuya ventaja frente a otras herramientas de 
-	  testing es principalmente una sintaxis más expresiva ligada al llamado [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) (behaviour driven development).
+	* Esta herramienta es un [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) (domain specific languaje) cuya ventaja frente a otras herramientas de testing es principalmente una sintaxis más expresiva ligada al llamado [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) (behaviour driven development).
 
-	* Se discutió sobre la bondad de esta herramienta, así como también sobre el uso de la técnica de [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
-	  (test driven development) en industria; con aportes de pareceres tanto de los estudiantes como del docente.
+	* Se discutió sobre la bondad de esta herramienta, así como también sobre el uso de la técnica de [TDD](http://en.wikipedia.org/wiki/Test-driven_development) (test driven development) en industria; con aportes de pareceres tanto de los estudiantes como del docente.
 
-	* Se realizó una Demo de instalación de la herramienta, para luego pasar a utilizarla en ejemplos específicos,
-	  donde se codificó un “Contador de Tenis” que cuenta los puntos en un partido de tenis; utilizando TDD.
+	* Se realizó una Demo de instalación de la herramienta, para luego pasar a utilizarla en ejemplos específicos, donde se codificó un “Contador de Tenis” que cuenta los puntos en un partido de tenis; utilizando TDD.
 
 ***
 
