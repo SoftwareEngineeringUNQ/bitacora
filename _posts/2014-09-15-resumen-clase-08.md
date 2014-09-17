@@ -6,9 +6,9 @@ layout: post
 
 #Resumen clase 08 (2014-09-15)
 
-* **Primera Parte: rpec**
+* **Primera Parte: RSpec**
 
-* Comenzamos hablando sobre [rspec](http://rspec.info), una herramienta de testing en Ruby.
+* Comenzamos hablando sobre [RSpec](http://rspec.info), una herramienta de testing en Ruby.
 
  	* Esta herramienta es un [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) (domain specific languaje) cuya ventaja frente a otras herramientas de 
 	  testing es principalmente una sintaxis más expresiva ligada al llamado [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) (behaviour driven development).
