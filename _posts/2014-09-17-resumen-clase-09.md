@@ -34,12 +34,12 @@ Luego hablamos sobre la comunicación y la riqueza o pobreza de la misma en base
 
 Posterior a esta lista de-creyente aprendimos una pequeña regla nemotecnica mnemotécnica que describen a una User Story:
 
-**I**ndependiente
-**N**egociables
-**V**aloradas por el usuario y el cliente
-**E**stimable
-**S**chiquita (O Small, pero veníamos todo en español así que...)
-**T**esteable 
+* **I** ndependiente
+* **N** egociables
+* **V** aloradas por el usuario y el cliente
+* **E** stimable
+* **S** chiquita (O Small, pero veníamos todo en español así que...)
+* **T** esteable 
 
 Si es muy grande, no es User Story, hay que desmembrarla en partes mas pequeñas, y sino se puede hay que hacer un **Spike**. Surge la duda de cómo mitigar el riezgo. Siempre que aparece un requerimiento desconocido es un riezgo, se hace el Spike, y si el riezgo no tiene solución se convierte en un problema y el "facilitador" / Scrum Master / Sujeto con poder de decisión, debe tomar una decisión. Hay toda un área de manejo de riezgo.
 
