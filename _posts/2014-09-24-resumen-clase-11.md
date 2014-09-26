@@ -5,8 +5,7 @@ layout: post
 ---
 #Resumen clase 11 (2014-09-24)
 
----
-## Inicio de la clase y Ejercicio de User Stories
+##Ejercicio de User Stories
 
 Al principio de la clase nos dividimos en equipos y se nos dio un ejercicio ,en el que a partir de una transcripción de la conversación de un cliente con un Analista/Desarrollador, teníamos que identificar y crear los roles de usuarios que utilizaran el sistema y las User Stories correspondientes.
 Luego cada equipo puso en común los Roles que había identificado, y más tarde se compartió las User Stories que cada grupo fue armando.
