@@ -68,13 +68,13 @@ texto, apertura de navegadores, ingreso a páginas web y clicks en algún botón
 
 Después vimos un ejemplo desde cero con Ruby, pero antes se mencionó sobré qué corre Gherkin:
 
-Gherkin
---------------
-Intérprete: Cucumber
---------------
-Driver: Por donde se "habla" con la aplicación como puede ser el navegador, en este caso usamos una librería llamada Selenium
---------------
-Framework de los tests, aquí RubyTest
+[Gherkin]
+
+[Intérprete: Cucumber]
+
+[Driver: Por donde se "habla" con la aplicación como puede ser el navegador, en este caso usamos una librería llamada Selenium]
+
+[Framework de los tests, aquí RubyTest]
 
 Se mencionó que con esta herramienta los tests pueden ser ejecutados antes de que la aplicación termine de ser construida, cosa
 que no sería posible con herramientas de testing tradicional y se hizo énfasis en la importancia de poder escribir estos tests
