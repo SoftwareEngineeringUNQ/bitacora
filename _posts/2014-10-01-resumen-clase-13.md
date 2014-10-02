@@ -34,12 +34,14 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
     * Entre todos estos tipos de estimación, vimos uno de los mas usados:
 
 		>**Estimación por expertos (puro):**
-			*Un experto estudia las especificaciones y hace su estimación. El experto se basa fundamentalmente en los conocimientos tanto de la tecnología como del dominio. Si el mismo desaparece, no hay quien estime en el proyecto, por esto es de mucha importancia.
+		Un experto estudia las especificaciones y hace su estimación. El experto se basa fundamentalmente en los conocimientos tanto de la tecnología como del dominio. Si el mismo desaparece, no hay quien estime en el proyecto, por esto es de mucha importancia.
         
 		>**Estimación por expertos (Windenband delphi):**   
 		*Los pasos que se realizan:*
-			Tiene que haber un coordinador/moderador del grupo.
+		
+		Tiene que haber un coordinador/moderador del grupo.
 		Se dan las especificaciones a un grupo de expertos los cuales se reunen para que discutir tanto el producto como la estimación. Luego remiten sus estimaciones individuales al coordinador el cual de información sobre su estimación, y las ajenas pero de forma anónima. Se reúnen de nuevo para discutir las estimaciones donde hubo una gran divergencia y cada uno revisa su propia estimación y la envía al coordinador nuevamente. Esto se repite hasta que la estimación converge de forma razonable.
+		
 		*Elementos:*
 		No se discuten las tareas, se intenta agregar supuestos que bajan la incertidumbre. El trabajo lo dirige un moderador que no este relacionado con el proyecto. Este es un proceso repetible que requiere de participantes con gran conocimiento de proyectos.
 
