@@ -33,7 +33,7 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
 
     * Entre todos estos tipos de estimación, vimos uno de los mas usados:
 
-		>** Estimación por expertos (puro):**
+		>**Estimación por expertos (puro):**
 
         		>Un experto estudia las especificaciones y hace su estimación.
     			>Se basa fundamentalmente en los conocimientos tanto de la tecnología como del dominio.
@@ -41,6 +41,7 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
         
 		>**Estimación por expertos (Windenband delphi):**   
 		*Los pasos que se realizan:*
+
        			>Tiene que haber un coordinador/moderador del grupo.
     			>Se dan las especificaciones a un grupo de expertos.
     			>Se los reune para que discutan tanto el producto como la estimación.
@@ -50,12 +51,14 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
     			>Cada uno revisa su propia estimación y la envía al coordinador.
     			>Se repite el proceso hasta que la estimación converge de forma razonable.
 		*Elementos:*
+
     			>No se discuten las tareas, se intenta agregar supuestos que bajan la incertidumbre.
     			>El trabajo lo dirige un moderador que no este relacionado con el proyecto.
     			>Es un proceso repetible.
     			>Requiere de participantes con gran conocimiento de proyectos.
 
 		>**Estimación por expertos (estimación ágil): Planning poker**
+
     			>Se utilizan cartas con los números que se asigna a cada unidad estimada.
     			>Para las unidades de estimación es común usar la serie de Fibonacci (0,1,2,3,5,8,13,21,34,55).
 
