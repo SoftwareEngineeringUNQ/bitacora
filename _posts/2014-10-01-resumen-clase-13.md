@@ -34,9 +34,9 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
     * Entre todos estos tipos de estimación, vimos uno de los mas usados:
 
 		>**Estimación por expertos (puro):**
-		>Un experto estudia las especificaciones y hace su estimación.
-		>Se basa fundamentalmente en los conocimientos tanto de la tecnología como del dominio.
-		>Si desaparece el experto, no hay quien estime.
+			>Un experto estudia las especificaciones y hace su estimación.
+			>Se basa fundamentalmente en los conocimientos tanto de la tecnología como del dominio.
+			>Si desaparece el experto, no hay quien estime.
         
 		>**Estimación por expertos (Windenband delphi):**   
 		*Los pasos que se realizan:*
