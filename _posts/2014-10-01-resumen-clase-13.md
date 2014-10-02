@@ -13,8 +13,8 @@ Estimación
 
 * Se hablo primeramente de lo que lleva una estimación, lo cual es:
     * Averiguar lo que costara desarrollar una aplicación.
-    * El momento clave en el que se desea conocer este coste.
-    * Siempre se quiere muy pronto.
+    * El momento clave en el que se desea conocer este costo.
+    * Y que siempre se quiere muy pronto.
 
 * Hablamos del Cono de la incertidumbre. Esto que significa, que de acuerdo al tiempo en que tratamos de estimar un proyecto, vamos a tener distinto grado de exactitud ya que es difícil eliminar la incertidumbre, solo al final del proyecto sabemos cuanto nos costo hacerlo, pero en el medio es muy difícil saberlo.
 Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a uno mismo.
@@ -52,7 +52,7 @@ Por eso lo mejor es aceptar que se va a tener esa incertidumbre y no mentirse a 
 
 * Se menciono también que son los story points?
 
-Son los puntos que se le asignan a una user story para estimar la dificultad que se requiere para  implementar dicha story. Esto sirve también para determinar la velocidad del equipo luego de ir avanzando en le proyecto, ejemplo, se podría determinar que la velocidad del equipo es de 18 story points por iteración.
+	* Son los puntos que se le asignan a una user story para estimar la dificultad que se requiere para implementar dicha story. Esto sirve también para determinar la velocidad del equipo luego de ir avanzando en le proyecto, por ejemplo, se podría determinar que la velocidad del equipo es de 18 story points por iteración.
 
 
 Retrospectivas
