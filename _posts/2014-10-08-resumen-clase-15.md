@@ -10,7 +10,7 @@ layout: post
 
 Toda la clase se basó en dicho ejercicio:
 
-* Todos los grupos teníamos un mismo enunciado, a partir del cual, obtuvimos, en primera instancia, las **user stories**.
+* Todos los grupos teníamos un mismo enunciado, a partir del cual, obtuvimos en primera instancia, las **user stories**.
 	* Esta tarea nos llevó un buen tiempo, luego compartimos las stories que fué detectando cada equipo.
 	* A medida que ibamos compartiendo, intentando no repetirnos.. reformulamos algunas stories, para que denoten realmente la funcionalidad que agrega valor al negocio, más allá de cómo estaba expresada en el documento.
 
