@@ -25,8 +25,7 @@ layout: post
 
 * Patrón MVC (model-controler-view)
 
-* Patrón de Layers (capas): Presentación | (Servicio) | Dominio | Persistencia
-	No confundir con Patrón de Tiers
+* Patrón de Layers (capas): Presentación | (Servicio) | Dominio | Persistencia. No confundir con Patrón de Tiers
 
 * [Sinatra](http://www.sinatrarb.com/intro.html): se mostró get, post, params, erb
 * [Padrino](http://www.padrinorb.com/): Para usar Sinatra y demás facilidades.
