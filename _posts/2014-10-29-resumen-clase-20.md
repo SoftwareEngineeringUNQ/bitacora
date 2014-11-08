@@ -1,54 +1,45 @@
 ---
-title: Resumen clase 21
-author: Marcelo Rubini
+title: Resumen clase 20
+author: Damian Lattenero
 layout: post
 ---
 
-#Resumen clase 21 (2014-11-03)
+#Resumen clase 20 (2014-10-29)
 
+*Los temas principales de la clase fueron cómo se armarán los grupos para el trabajo final e hicimos una práctica de Visual Story Mapping*
 
+Sobre los grupos
+==
 
-Comenzamos la clase hablando sobre lo que entendiamos por ***finalizacion de un proyecto*** y rescato los siguientes interrogantes:
+* Se aclararó que los profesores iban a encargarse de armarlos, uno no podía elegir. Esto por varias razones:
+    * Es mucho más cercano a lo que pasa en la vida real: uno no siempre elige con quién trabajar
+    * Había disparidad de personalidades a la hora de trabajar, por ejemplo, algunos son más proactivos que otros, lo que podría generar conflictos.
+    * Algunos entregaron las tareas a tiempo demostrando haber practicado nociones de la materia (como BDD-TDD)
+    * Un alumno estaba convencido de que podía elegir con quién trabajar, que eso se había dicho al comienzo. Hubo un pequeño debate entre el profesor y el alumno.
+      Las conclusiones del debate fueron que, como se explica en la materia, los requerimientos y las cosas pueden sufrir cambios y uno se debe adaptar, y por otro
+      lado, se sugirió ser mucho más explícito al comienzo de la cursada diciendo algo del estilo "cabe la posibilidad de que elijan sus compañeros de equipo, pero
+      llegado el momento eso puede cambiar"
 
-*Un proyecto llega a su fin cuando...*
+Sobre el TP
+==
+* Cada semana se hará un Review-Planning
 
-* ...se termina con el desarrollo del mismo?
-* ...se concreta la entrega del producto de valor al cliente?
-* ...finaliza la capacitacion de los potenciales usuarios?
+* El profesor aconsejo practicar y aprender sobre Padrino lo antes posible
 
-De lo cual se pudo concluir que los diferentes puntos son validos, mientras sea lo acordado en el contrato que se firmo para dicho proyecto.
+*Deberá definirse con el Product Owner el back-log (cosas como si usar Trello , excell, etc)
 
-***
+* Se utilizará Git-Hub para contralador de versiones del trabajo
 
-Luego hablamos sobre ***web 2.0*** o ***cloud computing***
+* Deben aplicarse los conceptos vistos en la materia sobre el tp (Ej. BDD-TDD)
 
-Un concepto no muy nuevo, propuesto en los años '60 por John McCarthy donde existia la idea de que el software iba a ser ofrecido por servidores haciendo transparente para el usuario el manejo de los recursos que se requieren. El desarrollo de internet fue clave para que este modelo se pueda aplicar recien a finales de los '90, principios de los '00.
+* Hay trabajos que se harán desde cero y otros que no. 
+    * Ventajas de los trabajos desde cero: no tienen que lidiar con código de otro. Pueden decidir como modelarlo.
+    * Ventajas de los trabajos iniciados: En el caso de alfred habrá respuesta de un equipo, lo que lo hace más real.
+ 
+Cierre de la clase
+==
 
-La influencia del paradigma redefinio el negocio del software, que dejo de ser un producto para convertirse en un servicio.
+* Cada uno votó las 5 propuestas de trabajo según su preferencia
+* El profesor luego avisaría como se conformarán los grupos
+* Se aclaró que es muy importante asistir a todas las clases de ahora en mas, sobre todo las que se hará el review.
 
-Los diferentes servicios que el cloud computing puede ofrecer distingue tres capas:
-
-* La capa mas alta, denominada **SAAS** (Software as a Service)
-
-Brindan al usuario una aplicación completa ofrecida como un servicio via navegador web, donde los costos se basan en la demanda que el usuario realice sobre las funcionalidades que la aplicacion provea.
-
-Ej: Gmail, Dropbox, etc.
-
-* La capa intermedia, denominada **PAAS** (Platform as a Service)
-
-Son abstracciones de ambientes de desarrollo donde se provee una serie de módulos o complementos que proporcionan funcionalidad de persistencia de datos, autenticacion, mensajeria, etc.
-
-Ej: Heroku, Google App Engine, etc.
-
-* La capa mas baja, denominada  **IAAS** (Infraestructure as a Service)
-
-Proveen almacenamiento básico y capacidades de cómputo como servicios estandarizados en la red.
-
-Ej: EC2 de Amazon, SmartCloud de IBM, etc.
-
-
-Este paradigma termina brindando a las organizaciones una Arquitectura Elastica para el desarrollo de sus negocios o servicios.
-
-***
-
-Luego tuvieron lugar las planning meetings para los proyectos de tp final cuyos product owners son Ingrid y Nico.
