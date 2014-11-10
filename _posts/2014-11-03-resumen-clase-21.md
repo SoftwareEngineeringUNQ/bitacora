@@ -20,7 +20,14 @@ De lo cual se pudo concluir que los diferentes puntos son validos, mientras sea 
 
 ***
 
-Luego hablamos sobre ***web 2.0*** o ***cloud computing***
+Luego hablamos sobre ***web 2.0*** y ***cloud computing***
+
+**WEB 2.0**
+
+Es un término asociado a Tim O'Reilly con el cual se intenta describir una nueva version de la web. No a nivel de especificaciones tecnicas sino al tipo de uso que se le empieza a dar. En la web 2.0, los sitios web dejan de ser estaticos y pasan a ser dinamicos. Es decir, los usuarios dejan de ser solo consumidores para poder convertirse en productores de informacion. Son ejemplos de este concepto: sitios de comunidades web, aplicaciones web, servicios web. 
+
+
+**Cloud Computing**
 
 Un concepto no muy nuevo, propuesto en los años '60 por John McCarthy donde existia la idea de que el software iba a ser ofrecido por servidores haciendo transparente para el usuario el manejo de los recursos que se requieren. El desarrollo de internet fue clave para que este modelo se pueda aplicar recien a finales de los '90, principios de los '00.
 
