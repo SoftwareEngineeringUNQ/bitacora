@@ -41,10 +41,10 @@ Uno gestiona los riesgos desde que se detecta hasta que ocurre. Una vez que ocur
 
 ***RAID Log***
 
-**R**isk
-**A**ctions
-**I**ssues
-**D**ecisions
+Risk
+Actions
+Issues
+Decisions
 
 * *Risk:* Riesgo de que suceda algo.
 
