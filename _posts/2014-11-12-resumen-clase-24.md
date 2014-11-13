@@ -58,15 +58,15 @@ Para el análisis de los riesgos, se hace una tabla con tres columnas: La primer
 
 ***Ejemplo de tabla:***
 	
-	 ___________________________________________________
+	 _______________________________________________________________________
 	|	Nombre		 |	Probabilidad 	|	Impacto		|
-	|________________|__________________|_______________|
-	|Desastre Natural| Muy baja		    | Muy alto		|
-	|Personal Enfermo| Moderada			| Alto			|
-	|				 |					|				|
-	|				 |					|				|
-	|				 |					|				|
-	|				 |					|				|
+	|________________________|______________________|_______________________|
+	|Desastre Natural        | Muy baja		| Muy alto		|
+	|Personal Enfermo        | Moderada		| Alto			|
+	|			 |			|			|
+	|			 |			|			|
+	|			 |			|			|
+	|			 |			|			|
 
 
 ####Conclusión:
