@@ -14,6 +14,7 @@ El enunciado era sobre una aplicación para la gestión y seguimiento de denunci
 La actividad era muy similar a la que hicimos clases atrás con un enunciado sobre una página web sobre subastas online, pero sirvió
 mucho para aclarar dudas sobre la identificación de roles y el modo de redactar las user stories.
 
+
 * *Los puntos a destacar fueron:*
 
   * Cuando se trata de aceptar o rechazar algo, una user story no puede ser "Como *rol* quiero poder aceptar o rechazar *algo*", 
