@@ -21,3 +21,6 @@ Mencionaron que usan muchísimas tecnologías, algunas que son las que tienen m�
 * ¿Para qué hacer todo esto?
 En esta pregunta explicaron que lo que hacían era ponerle atención a tres factores que son: ...
 Por último mencionaron la metodología que están implementando para llevar adelante esta cooperativa llamada Happy Startup.
+
+* ¿Cómo manejan el reparto de bienes?
+Toda lo que ganaba cada uno lo ponian en un fondo en común para repartirlo despues en partes iguales sin importar cuanto hayan ganado de manera particular, o si alguien tenía alguna necesidad importante se informaba al resto del grupo y se le daba lo que necesitara. Como caso de emergencia, por si no consiguen clientes, tenían un "colchoncito monetario" que les permitia subsistir 2 meses más.
