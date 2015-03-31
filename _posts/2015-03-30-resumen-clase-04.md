@@ -1,6 +1,6 @@
 ---
 title: Resumen clase 04
-author: Rizzi Roman
+author: Tella Arena, Ángeles
 layout: post
 ---
 Resumen clase 04 (2015-03-30)
