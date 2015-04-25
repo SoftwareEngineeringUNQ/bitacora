@@ -7,7 +7,7 @@ Resumen clase 10 (2015-04-20)
 
 
 
-Como arranca un proyecto?
+*Como arranca un proyecto?
 
 -Con un problema o Idea.
 -luego arranca la Visión,una vez obtenida la visión, se le da una forma Concreta y se investiga si es factible en cuanto a dinero,tiempo y alcance.
@@ -20,11 +20,11 @@ Entre las User stories que encontre hablando con el product owner, hay un salto 
 ¿Cómo pego el salto para traducir la charla que tuve con el cliente a unas clases concretas?.
 Se puede escribir usando ejemplos de como esperaria que el software se comporte. 
 
-Por ejemplo:
+**Por ejemplo:
 una manera de hacerlo es 
 utilizando casos de uso y luego se codea para cumplir esos casos, en paralelo se hacen los Test para probar eso.
 
-AAA -> arrange ,act, assert.
+**AAA -> Arrange ,Act, Assert.
 
 Se plantea un contexto de logeo y se hace un test
 
@@ -62,5 +62,6 @@ Entonces tenemos una piramide de Test
 
 
 
-JUnit de componente: ( Test de Integracion: testea una clase que ejecuta todo. teniendo efectos de Lado para verificar el correcto funcionamiento)
+JUnit de componente: ( Test de Integracion: testea una clase que ejecuta todo. teniendo efectos de Lado para verificar el correcto funcionamiento).
+
 JUnit Unitarios: Testeo de clase de manera aislada, mockeando todas las relaciones con instancias de otras clases.
