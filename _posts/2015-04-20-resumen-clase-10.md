@@ -1,3 +1,12 @@
+---
+title: Resumen clase 10
+author: Flores Jorge
+layout: post
+---
+Resumen clase 10 (2015-04-20)
+
+
+
 Como arranca un proyecto?
 
 -Con un problema o Idea.
@@ -21,7 +30,7 @@ Se plantea un contexto de logeo y se hace un test
 
 test case:
 
-	Arrange : conosco usuario y clave
+	Arrange : conozco usuario y clave
 	Act: pruebo el login correcto.
 	ASSERT: compruebo el logeo (dio OK).
 
