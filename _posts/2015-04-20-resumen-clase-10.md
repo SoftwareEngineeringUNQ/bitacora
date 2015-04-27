@@ -45,9 +45,9 @@ como Cucumber.
 * Se vieron ejemplos de Cucumber.
 * Se vieron ejemplos de fitnesse donde los test toman forma de tabla, es muy util ya que plantea un lenguaje en comun entre el desarrollador y el cliente.
 
-**BDD:** Behavior Driven Develoment (desarrollo guiado por el comportamiento) 
-**ATDD:** Acceptance TDD.
-**SDE: **Specification By Example.
+* **BDD:** Behavior Driven Develoment (desarrollo guiado por el comportamiento).
+* **ATDD:** Acceptance TDD.
+* **SDE:**Specification By Example.
 
 Los 3 terminos  mencionados son sinonimos.
 
