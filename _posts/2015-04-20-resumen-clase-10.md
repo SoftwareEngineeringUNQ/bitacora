@@ -33,7 +33,7 @@ Se plantea un contexto de logeo y se hace un test
 *	**Act:** pruebo el login correcto.
 *	**ASSERT:** compruebo el logeo (dio OK).
 
-Esta manera tiene es muy frágil ya que da a lugar a malas interpretaciones, ya que el analista (quien escribe el documento de caso de uso) habla con el cliente, una vez generado el documento
+Trabajar de esta manera no es recomendable ya que  es muy frágil porque da a lugar a malas interpretaciones, ya que el analista (quien escribe el documento de caso de uso) habla con el cliente, una vez generado el documento
 se lo pasa al desarrollador y al tester para que empiecen a trabajar en paralelo. Eso da a lugar a muchas fallas porque el desarrollador y el tester pueden tener diferentes interpretaciones del documento
 El desarrollador y el tester no saben que esta haciendo el otro.
 
