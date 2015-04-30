@@ -35,7 +35,7 @@ La forma de trabajo era en grupos de 4 personas, con una planificación donde es
 en la siguiente iteración, luego una iteración de 10 minutos, y finalmente la demostración del vuelo y una retrospectiva.
 
 #### Conclusiones
-Luego de tres iteraciones completas, logramos parcialmente estimar el ritmo de trabajo de los grupos
+Luego de tres iteraciones completas, logramos parcialmente estimar el ritmo de trabajo de los grupos.
 Entre los equipos hubieron distintas formas de encarar el proyecto. Algunos decidieron producir la mayor
 cantidad de aviones, sin probar el vuelo. Otros produjeron y entregaron solo los aviones que pasaban el control de calidad.
 
