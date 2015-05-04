@@ -31,12 +31,12 @@ Definiéndolo como el encargado de tomar las decisiones importate a la hora de e
 **Sistema de información:**
 *estructura de software requerida en la actualidad*
 
-UI -->  Pantalla, lo que ve el usuario.
-Negocio -->  Lógica de negocio, residen los programas que se ejecuta.
-Persistencia -->  Donde se guardan los datos.
+*** UI *** Pantalla, lo que ve el usuario.
+** Negocio ***  Lógica de negocio, residen los programas que se ejecuta.
+*** Persistencia ***  Donde se guardan los datos.
 
 **Framework vs librerias:**
-*Hablomos de la diferencia entre framework y librerias*
+*Hablamos de la diferencia entre framework y librerias*
 
 * el framework llama a tu código
 * tu código llama a la libreria
