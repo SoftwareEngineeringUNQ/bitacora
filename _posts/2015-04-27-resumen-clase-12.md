@@ -20,24 +20,26 @@ Los que entregaron los trabajos correctamente(tiempo y forma), no podrán agrupa
 
 Se discutió en clase la funcionalidad que tiene un arquitecto de software.
 Definiéndolo como el encargado de tomar las decisiones importate a la hora de elegir:
--la tecnología.
--para que plataforma se va a desarrollar.
--framework con el que se va a trabajar.
--identificar en forma concreta los atributos de calidad.
+
+
+* la tecnología.
+* para que plataforma se va a desarrollar.
+* framework con el que se va a trabajar.
+* identificar en forma concreta los atributos de calidad.
 
 
 **Sistema de información:**
 *estructura de software requerida en la actualidad*
 
-UI – Pantalla, lo que ve el usuario.
-Negocio – Lógica de negocio, residen los programas que se ejecuta.
-Persistencia - Donde se guardan los datos.
+UI -->  Pantalla, lo que ve el usuario.
+Negocio -->  Lógica de negocio, residen los programas que se ejecuta.
+Persistencia -->  Donde se guardan los datos.
 
 **Framework vs librerias:**
 *Hablomos de la diferencia entre framework y librerias*
 
--el framework llama a tu código
--tu código llama a la libreria
+* el framework llama a tu código
+* tu código llama a la libreria
 
 
 
