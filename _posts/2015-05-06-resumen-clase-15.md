@@ -17,9 +17,8 @@ Se puede dividir en los siguientes pasos:
 * Reunir datos: Se puede hacer esto a través de una BrainStorming, donde todo el equipo propone ideas, de las cuales
   todas son buenas y ninguna debe ser criticada. Se trata de construir una idea a partir de otra.
 * Generar entendimiento:Las ideas se van agrupando por temas.
-* Decidir: luego de la retrospectiva se toman las decisiones para mejorar.
-  Es importante que las decisiones tomadas sean pocas, por esto se proponen retrospectivas seguidas en los equipos.
-*Cierre
+* Decidir:Luego de la retrospectiva se toman las decisiones para mejorar. Es importante que las deciciones tomadas sean pocas, por esto se proponen retrospectivas seguidas en los equipos.
+* Cierre
 
 
 #### Ejercicio de Retrospectiva
