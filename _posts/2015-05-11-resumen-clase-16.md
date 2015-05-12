@@ -1,11 +1,10 @@
---
+---
 title: Resumen clase 16
 author: Javier Perini
 layout: post
 ---
-Resumen clase 16 (2015-05-11)
-=============================
-
+Resumen clase 16 (2013-05-11)
+===============
 **HERRAMIENTAS PARA EL TP FINAL**
 
 **Backlog**: para hacer el backlog estuvimos viendo las herramientas  *Trello* y *Waffle.io*,
