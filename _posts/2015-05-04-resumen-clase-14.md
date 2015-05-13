@@ -1,5 +1,5 @@
 ---
-title: Resumen clase 4
+title: Resumen clase 14
 author: Adrian Juri
 layout: post
 ---
@@ -47,9 +47,7 @@ Nos dividimos en 4 equipos para realizar dos tareas. Una trataba sobre un sistem
 debian ser distribuidos entre los distintos empleados de servicio tecnico (cada uno en su hogar) y debian concurrir al hogar de los clientes
 para solucionarl sus problemas. La otra trabata sobre un sistema de subastas en donde los usuario podian asistir fisica o virtualmente al mismo
 tiempo. 
-En este ejercicio se llego a la conclusion de que no hay que tomar decisiones puntuales sobre tecnologias (menos para requerimientos
-pequeños) en esta etapa, pero si tomar buenas decisiones sobre las cosas que al cliente le interesan. Por ejemplo que smartphone o gadget se le entregara
-a los empleados para que realmente puedan cumplir con su trabajo.
+En este ejercicio se llego a la conclusion de que hay que tomar buenas decisiones sobre las cosas que al cliente le interesan, por ejemplo que smartphone o gadget se le entregara a los empleados para que realmente puedan cumplir con su trabajo. Ademas se vio que no hay que tomar decisiones puntuales sobre tecnologias (menos para requerimientos pequeños) en esta etapa.
 Otro punto que se vio es que hay que cubrir todos los aspectos del proyecto. Como por ejemplo que son y a donde se conectan los pulsadores en la sala de subastas fisica, o que sucede si en la aplicacion web me quede sin dinero para continuar pujando.
 
 
