@@ -5,7 +5,7 @@ layout: post
 ---
 Resumen clase 14 (2015-05-04)
 ===============
-## Atributos de calidad
+### Atributos de calidad
 
 Son ajenos al dominio e impactan horizontalmente a los requerimientos de mi aplicacion
 - Robustez
