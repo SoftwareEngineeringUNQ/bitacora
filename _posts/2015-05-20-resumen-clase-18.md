@@ -11,22 +11,23 @@ La tarea consintió en organizar las ideas aprendidas en las lecturas de "05-Des
  
 **Hecho con Pablo**:
 
-[https://drive.google.com/file/d/0B5U3l66_ujdoMlNlZXZGbTZkUU0/view?usp=sharing](http://osl2.uca.es/wikiCE/images/2/2a/Imagen1.jpg)
+[https://drive.google.com/file/d/0B5U3l66_ujdoMlNlZXZGbTZkUU0/view?usp=sharing](https://drive.google.com/file/d/0B5U3l66_ujdoMlNlZXZGbTZkUU0/view?usp=sharing)
 
 **Hecho en grupo**: 
 
-[https://drive.google.com/file/d/0B5U3l66_ujdoM0dsbTl1WHlCNWM/view?usp=sharing](http://osl2.uca.es/wikiCE/images/2/2a/Imagen1.jpg)
+[https://drive.google.com/file/d/0B5U3l66_ujdoM0dsbTl1WHlCNWM/view?usp=sharing](https://drive.google.com/file/d/0B5U3l66_ujdoM0dsbTl1WHlCNWM/view?usp=sharing)
 
 **UNIFED PROCESS (RUP)**
 Hablamos de UNIFED PROCESS que es otro forma diferente de encarar un proyecto, es iterativo e incremental, esta dirigido a casos y esta centrado en lo que es la arquitectura
 
 Vimos un gráfico donde, vemos el volumen de trabajo de cada área en una linea de tiempo. El gráfico que vimos es el siguiente
 
-[http://www.ibm.com/developerworks/rational/library/content/RationalEdge/may04/4763_fig2.jpg](http://osl2.uca.es/wikiCE/images/2/2a/Imagen1.jpg)
+[http://www.ibm.com/developerworks/rational/library/content/RationalEdge/may04/4763_fig2.jpg](http://www.ibm.com/developerworks/rational/library/content/RationalEdge/may04/4763_fig2.jpg)
 
 (Aclaro:  es el mas parecido que encontré con el que hicimos en clase)
 
 **info :** cada iteracion genera una "*demo*" para el cliente. Y siempre estoy entregando algo al final de cada iteracion. Las iteraciones suelen ser mas largas( comparado con proceso ágil)
+
 **Roles** 
    
 
