@@ -16,6 +16,7 @@ Resumen clase 16 (2013-05-18)
    - Se estableció como fecha límite el miércoles 27
 
 **Release Planning**
+
  - Vimos casos de proyectos y nos preguntamos cuándo un proyecto es exitoso o no
   - Es exitoso cuando se termina con el desarrollo
   - O cuando se termina en el tiempo y costos establecidos?
@@ -26,6 +27,7 @@ Resumen clase 16 (2013-05-18)
   - En términos de costos y recuperación de inversión, calculamos que, en general, lanzar antes el producto a producción ayuda a cubrir parte del costo de desarrollo.
 
 **TP Final**
+
  - Se habló un poco del TP Final y comenzamos a amar los grupos (4 grupos de 3 personas y 2 de 2)
 
  
