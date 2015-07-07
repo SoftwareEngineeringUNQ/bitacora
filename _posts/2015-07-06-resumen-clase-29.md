@@ -7,6 +7,7 @@ Resumen clase 29 (2015-07-06)
 ===============
 
 ####La clase se dividió en 2 partes:
+
 ##Primera Parte:
 
 Tuvimos la visita de 4 integrantes del proyecto Eleva:
