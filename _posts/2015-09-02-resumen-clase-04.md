@@ -1,5 +1,5 @@
 ---
-title: Resumen clase 09
+title: Resumen clase 04
 author: Leandro Julian Gomez Velazquez
 layout: post
 ---
