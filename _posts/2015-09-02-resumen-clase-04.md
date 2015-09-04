@@ -68,20 +68,7 @@ Son todos aquellos que tienen algun interes en el proyecto:
 
 Y finalmente como hacer un analisis de los mismos (cuan informados debo mantenerlos):
 
-        Poder
-
-       /|\                         /|\
-        |                           |                           
-        |                           |                           
-        |                           |                           
-        |    Mantener satisfecho    |   Manejar de cerca        
-        |                           |                           
-        |                           |                           
-        +---------------------------+----------------------------->
-        |                           |                           
-        |                           |                           
-        |                           |                           
-        |       Monitorear          |    Mantener informado     
-        |                           |                           
-        |                           |                           
-        +---------------------------+-----------------------------> Interes
+* Si tiene poder (en el proyecto) y mucho interes: manejar de cerca
+* Si tiene poder pero poco interes: mantener satisfechos
+* Si no tiene mucho poder, pero mucho interes: Mantener informado
+* Si no tiene poder ni interes: simplemente monitorear.
