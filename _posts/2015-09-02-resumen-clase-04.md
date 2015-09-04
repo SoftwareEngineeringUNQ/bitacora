@@ -27,6 +27,7 @@ Los proyectos suelen pasar por etapas:
 
 
 Se mostró [PMBOK](https://www.pmi.org/PMBOK-Guide-and-Standards.aspx):
+
 > Conjunto de procesos y áreas de conocimiento aceptadas como buenas prácticas
 
 El mismo abarca las siguientes areas de conocimiento:
