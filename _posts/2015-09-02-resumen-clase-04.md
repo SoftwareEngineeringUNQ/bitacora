@@ -12,22 +12,25 @@ Resumen clase 04 (2015-09-02)
 > Son emprendimientos temporarios (o sea, que concluyen) para la creación de productos o servicios, con especificaciones y restricciones presupuestarias.
 
 Hay __3__ formas de controllar los proyectos:
-- __Especificaciones (o alcance):__ El qué. Hasta donde tengo que hacer yo (o mi equipo).
-- __El Tiempo.__
-- __Costos:__ No solo el dinero, sino también el trabajo por desarrollador que va a llevar.
+
+* __Especificaciones (o alcance):__ El qué. Hasta donde tengo que hacer yo (o mi equipo).
+* __El Tiempo.__
+* __Costos:__ No solo el dinero, sino también el trabajo por desarrollador que va a llevar.
 
 Los proyectos suelen pasar por etapas:
-- __Vision:__ Que se va a hacer, la idea.
-- __Inicio:__ El detalle del proyecto ya aprobado.
-- __Organización:__ Diseño, elección de herramientas, elección de equipo.
-- __Ejecuccion:__ Cuando se lleva a cabo la implementación del proyecto.
-- __Cierre:__ Se termina el proyecto y se entra en otras etapas (desarrollo de otra versión, mantenimiento).
+
+* __Vision:__ Que se va a hacer, la idea.
+* __Inicio:__ El detalle del proyecto ya aprobado.
+* __Organización:__ Diseño, elección de herramientas, elección de equipo.
+* __Ejecuccion:__ Cuando se lleva a cabo la implementación del proyecto.
+* __Cierre:__ Se termina el proyecto y se entra en otras etapas (desarrollo de otra versión, mantenimiento).
 
 
 Se mostró [PMBOK](https://www.pmi.org/PMBOK-Guide-and-Standards.aspx):
 > Conjunto de procesos y áreas de conocimiento aceptadas como buenas prácticas
 
 El mismo abarca las siguientes areas de conocimiento:
+
 * Costos
 * Calidad
 * Tiempos
