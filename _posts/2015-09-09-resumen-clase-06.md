@@ -4,7 +4,7 @@ author: Alejandro Gabriel Sobko
 layout: post
 ---
 
-Resumen clase 05 (2015-09-09)
+Resumen clase 06 (2015-09-09)
 =============================
 
 ##User Stories: Cuentos cortos del usuario.
