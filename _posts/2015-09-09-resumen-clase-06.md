@@ -1,5 +1,5 @@
 ---
-title: Resumen clase 05
+title: Resumen clase 06
 author: Alejandro Gabriel Sobko
 layout: post
 ---
