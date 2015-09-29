@@ -4,7 +4,7 @@ author: Daniel Wyrytowski
 layout: post
 ---
 
-Resumen clase 02 (2015-09-28)
+Resumen clase 10 (2015-09-28)
 =============================
 
 
