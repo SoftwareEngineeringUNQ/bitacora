@@ -23,7 +23,9 @@ Hablamos de los diferentes tipos de tests:
 
 + test unitarios (tests donde la funcionalidad se testea independiente de elementos externos)
 y
-+ tests de integración (todo test que no es unitario); y del concepto de "pirámide de tests" donde lo que pretendemos es tener los tests de UI en la punta, queriendo decir que queremos que sean de los que menos haya, ya que son los más dificiles de realizar y los más frágiles.
++ tests de integración (todo test que no es unitario); 
+
+y del concepto de "pirámide de tests" donde lo que pretendemos es tener los tests de UI en la punta, queriendo decir que queremos que sean de los que menos haya, ya que son los más dificiles de realizar y los más frágiles.
 
 Se mencionó al autor  *Brian Marick* quien dice que básicamente hay 2 tipos de tests:
 
@@ -40,8 +42,10 @@ Repasamos el conecpto de proyecto y "el cuentito" de las metodologías que estam
 + Se analiza el problema
 + Se realiza una estimación de las __Variables de Proyecto__ (Recursos, Tiempo, Alcance)
 + Las variables de proyecto ayudan a determinar el tipo de contratación :
+
 > - llave en mano ( las 3 variables fijas )
 > - time and materials ( alcance variable  , lo cual en definitiva variabiliza las otras 2)
+
 + Se realiza el __Visual Story Mapping__ estableciendo las __User Stories__ que luego formarán parte del __Backlog de proyecto__.
 + Comienza la iteración de los Sprints
 
