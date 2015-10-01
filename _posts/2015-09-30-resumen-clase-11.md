@@ -13,8 +13,8 @@ Al comienzo de la clase se produjo el análisis del código de un compañero  so
 
 ###Tema de la clase:
 
-Estimación:
-: Saber cuanto va a llevar algo, pudiendo ser:  el tiempo, recursos, personas, etc.
+>__Estimación:__
+Saber cuanto va a llevar algo, pudiendo ser:  el tiempo, recursos, personas, etc.
 
 ---
 
