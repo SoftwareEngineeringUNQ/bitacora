@@ -67,7 +67,7 @@ En este paso se ejecutan las siguientes actividades:
 
 En este paso se asignan a las personas que van a llevar a cabo las ideas seleccionadas, para evitar que todos hagan 1 sola idea planteada o que todo el equipo quede "pendiente" de todas las ideas a realizar.
 
-**5. Cierre **
+**5. Cierre**
 
 Se termina la reunión de la retrospectiva.
 
