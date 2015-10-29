@@ -8,7 +8,9 @@ Resumen clase 18 (2015-10-28)
 ==============================
 
 En esta clase se habló sobre proceso unificado y casos de uso.
+
 ### Proceso unificado
+
 Es una metodología de trabajo iterativa e incremental, que se divide en iteraciones de trabajo, pero **no es ágil**.
 Cuenta con las siguientes etapas:
 
