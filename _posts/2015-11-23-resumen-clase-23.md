@@ -4,7 +4,7 @@ author: Pericon Brian Emmanuel
 layout: post
 ---
 
-Resumen clase 10 (2015-11-23)
+Resumen clase 23 (2015-11-23)
 =============================
 
 
