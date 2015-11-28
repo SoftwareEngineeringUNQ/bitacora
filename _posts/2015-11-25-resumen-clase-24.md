@@ -18,6 +18,7 @@ Tambien sobre el crecimiento de la empresa, sus ventas, competencia. Como comenz
 ### Ring
 
 Timbre inteligente que posee:
+
 * Cámara
 * Micrófono
 * Speaker
@@ -32,6 +33,7 @@ Timbre inteligente que posee:
 Pablo es el ***Project Manager***, se encarga de facilitar la comunicación entre los equipos y de la solución a problemas que puedan presentarse.
 
 Equipos:
+
 * Mobile
 * Backend
 * Website
