@@ -1,4 +1,4 @@
-# "Logic in computer science : modelling and reasoning about systems".
+# "Logic in computer science : modelling and reasoning about systems"
 
 #### Autores: 
   
